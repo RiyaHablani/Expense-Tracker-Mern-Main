@@ -8,3 +8,22 @@ Screenshots:
 ![App Screenshot](client/public/images/appScreenshot2.png)
 ![App Screenshot](client/public/images/appScreenshot3.png)
 ![App Screenshot](client/public/images/appScreenshot4.png)
+
+# Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributors](#contributors)
+- [Tests](#tests)
+- [Questions](#questions)
+
+#Usage
+sign up/log in to deployed URL above
+
+#License
+This project is licensed under the terms of the [MIT License](./LICENSE).
+
+#Contributors
+Riya Hablani https://github.com/RiyaHablani
+Pranav Sharma https://github.com/pranav-1610
+Pratap Kanase https://github.com/Pratap-Kanase
