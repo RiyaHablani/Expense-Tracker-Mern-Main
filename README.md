@@ -5,3 +5,6 @@ Expense Tracker is a full stack MERN app which allows users to track their perso
 
 Screenshots:
 ![App Screenshot](client/public/images/appScreenshot1.png)
+![App Screenshot](client/public/images/appScreenshot2.png)
+![App Screenshot](client/public/images/appScreenshot3.png)
+![App Screenshot](client/public/images/appScreenshot4.png)
